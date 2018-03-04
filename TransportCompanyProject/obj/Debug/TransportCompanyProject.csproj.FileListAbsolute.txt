@@ -1,0 +1,6 @@
+E:\Программирование\EPAM\TransportCompanyProject\TransportCompanyProject\bin\Debug\TransportCompanyProject.exe.config
+E:\Программирование\EPAM\TransportCompanyProject\TransportCompanyProject\bin\Debug\TransportCompanyProject.exe
+E:\Программирование\EPAM\TransportCompanyProject\TransportCompanyProject\bin\Debug\TransportCompanyProject.pdb
+E:\Программирование\EPAM\TransportCompanyProject\TransportCompanyProject\obj\Debug\TransportCompanyProject.csprojResolveAssemblyReference.cache
+E:\Программирование\EPAM\TransportCompanyProject\TransportCompanyProject\obj\Debug\TransportCompanyProject.exe
+E:\Программирование\EPAM\TransportCompanyProject\TransportCompanyProject\obj\Debug\TransportCompanyProject.pdb
